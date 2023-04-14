@@ -1,7 +1,7 @@
 # density_box_violin_plot
 Commonly used python-based visualization codes in statistics, including density plot, violin_scatter_box plot and others.
 
-<img src="./saved_figure/density.png" width="200"> <img src="./saved_figure/violin_box.png" width="400"> <img src="./saved_figure/violin_scatter_box.png" width="400"> 
+<img src="./saved_figure/density.png" width="200"> <img src="./saved_figure/violin_box.png" width="300"> <img src="./saved_figure/violin_scatter_box.png" width="300"> 
 
 ***From left to right: Density plot, Violin_Box plot, Violin_Scatter_Box plot*** 
 
